@@ -1,0 +1,2538 @@
+ ===========================>     TALLY 13     <============================
+
+ Incoming Energy [1000, 10000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [10000, 20000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [20000, 30000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [30000, 45000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [45000, 60000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [60000, 70000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [70000, 75000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [75000, 100000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 5.13129e-08 +/- 5.13129e-08
+ Incoming Energy [100000, 150000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [150000, 200000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 1.74428e-06 +/- 1.48805e-06
+ Incoming Energy [200000, 300000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 1.08802e-06 +/- 2.78498e-07
+ Incoming Energy [300000, 400000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 5.58965e-07 +/- 2.01122e-07
+ Incoming Energy [400000, 450000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 4.00478e-07 +/- 1.31356e-07
+ Incoming Energy [450000, 510000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 2.7616e-07 +/- 1.1855e-07
+ Incoming Energy [510000, 512000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 6.86288e-08 +/- 6.86288e-08
+ Incoming Energy [512000, 600000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 2.26956e-07 +/- 9.32279e-08
+ Incoming Energy [600000, 700000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 1.52389e-06 +/- 1.26594e-06
+ Incoming Energy [700000, 800000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 5.43986e-07 +/- 1.58379e-07
+ Incoming Energy [800000, 1000000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 2.05726e-06 +/- 1.24191e-06
+ Incoming Energy [1000000, 1330000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 5.73889e-07 +/- 2.51822e-07
+ Incoming Energy [1330000, 1340000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 5.28034e-08 +/- 5.28034e-08
+ Incoming Energy [1340000, 1500000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 2.58107e-07 +/- 1.37428e-07
+ Incoming Energy [1500000, 1660000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 1.23936e-06 +/- 5.10617e-07
+ Incoming Energy [1660000, 2000000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 8.83042e-07 +/- 2.38611e-07
+ Incoming Energy [2000000, 2500000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 0.000187879 +/- 5.03313e-06
+ Incoming Energy [2500000, 3000000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 1.2115e-07 +/- 1.2115e-07
+ Incoming Energy [3000000, 3500000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 5.00779e-06 +/- 3.25408e-06
+ Incoming Energy [3500000, 4000000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 6.53724e-06 +/- 4.24185e-06
+ Incoming Energy [4000000, 4500000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 5.41035e-06 +/- 2.72491e-06
+ Incoming Energy [4500000, 5000000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [5000000, 5500000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 7.69047e-06 +/- 4.83451e-06
+ Incoming Energy [5500000, 6000000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 5.39862e-07 +/- 3.54935e-07
+ Incoming Energy [6000000, 6500000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 2.65865e-06 +/- 1.90807e-06
+ Incoming Energy [6500000, 7000000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 3.3505e-06 +/- 2.94278e-06
+ Incoming Energy [7000000, 7500000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 3.11179e-07 +/- 1.61766e-07
+ Incoming Energy [7500000, 8000000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 9.03951e-08 +/- 9.03951e-08
+ Incoming Energy [8000000, 10000000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 3.96275e-06 +/- 5.00594e-07
+ Incoming Energy [10000000, 12000000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [12000000, 14000000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [14000000, 20000000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [20000000, 30000000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [30000000, 50000000)
+   Particle: photon
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ ===========================>     TALLY 14     <============================
+
+ Incoming Energy [1000, 10000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [10000, 20000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [20000, 30000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [30000, 45000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [45000, 60000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [60000, 70000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [70000, 75000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [75000, 100000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              1e-07 +/- 1e-07
+ Incoming Energy [100000, 150000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [150000, 200000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              1e-07 +/- 1.79505e-07
+ Incoming Energy [200000, 300000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              1.7e-06 +/- 4.22953e-07
+ Incoming Energy [300000, 400000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              8e-07 +/- 2.90593e-07
+ Incoming Energy [400000, 450000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              7e-07 +/- 2.13437e-07
+ Incoming Energy [450000, 510000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              4e-07 +/- 1.63299e-07
+ Incoming Energy [510000, 512000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              1e-07 +/- 1e-07
+ Incoming Energy [512000, 600000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              4e-07 +/- 1.63299e-07
+ Incoming Energy [600000, 700000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              5e-07 +/- 2.23607e-07
+ Incoming Energy [700000, 800000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              6e-07 +/- 2.21108e-07
+ Incoming Energy [800000, 1000000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              1.2e-06 +/- 3.8873e-07
+ Incoming Energy [1000000, 1330000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              9e-07 +/- 4.06885e-07
+ Incoming Energy [1330000, 1340000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              1e-07 +/- 1e-07
+ Incoming Energy [1340000, 1500000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              4e-07 +/- 2.21108e-07
+ Incoming Energy [1500000, 1660000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              7e-07 +/- 3.34996e-07
+ Incoming Energy [1660000, 2000000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              1.4e-06 +/- 3.71184e-07
+ Incoming Energy [2000000, 2500000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              0.0002857 +/- 3.64859e-06
+ Incoming Energy [2500000, 3000000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [3000000, 3500000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              -2e-07 +/- 1.33333e-07
+ Incoming Energy [3500000, 4000000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              -1e-07 +/- 1e-07
+ Incoming Energy [4000000, 4500000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              -3e-07 +/- 1.52753e-07
+ Incoming Energy [4500000, 5000000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [5000000, 5500000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              -1e-07 +/- 1.79505e-07
+ Incoming Energy [5500000, 6000000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              1e-07 +/- 1e-07
+ Incoming Energy [6000000, 6500000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              3e-07 +/- 1.52753e-07
+ Incoming Energy [6500000, 7000000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              1e-07 +/- 1e-07
+ Incoming Energy [7000000, 7500000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [7500000, 8000000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [8000000, 10000000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              6.7e-06 +/- 8.43933e-07
+ Incoming Energy [10000000, 12000000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [12000000, 14000000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [14000000, 20000000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [20000000, 30000000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [30000000, 50000000)
+   Particle: photon
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ ===========================>     TALLY 15     <============================
+
+ Incoming Energy [1e-05, 0.1)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000969959 +/- 1.08097e-05
+ Incoming Energy [0.1, 0.41399)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000374783 +/- 3.87856e-06
+ Incoming Energy [0.41399, 0.53158)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 5.36263e-05 +/- 1.3821e-06
+ Incoming Energy [0.53158, 0.68256)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 5.36775e-05 +/- 1.37574e-06
+ Incoming Energy [0.68256, 0.87643)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 5.19534e-05 +/- 1.38078e-06
+ Incoming Energy [0.87643, 1.123)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 5.46166e-05 +/- 1.24895e-06
+ Incoming Energy [1.123, 1.44)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 5.62905e-05 +/- 1.45908e-06
+ Incoming Energy [1.44, 1.8554)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 5.69054e-05 +/- 1.72877e-06
+ Incoming Energy [1.8554, 2.3824)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 6.18656e-05 +/- 2.08968e-06
+ Incoming Energy [2.3824, 3.059)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 6.60557e-05 +/- 2.86815e-06
+ Incoming Energy [3.059, 3.9279)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 6.23546e-05 +/- 2.76343e-06
+ Incoming Energy [3.9279, 5.0435)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 6.22186e-05 +/- 2.06108e-06
+ Incoming Energy [5.0435, 6.476)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 7.00587e-05 +/- 2.66794e-06
+ Incoming Energy [6.476, 8.3153)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 7.14754e-05 +/- 1.64639e-06
+ Incoming Energy [8.3153, 10.677)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 7.24321e-05 +/- 3.03356e-06
+ Incoming Energy [10.677, 13.71)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 7.39488e-05 +/- 3.00756e-06
+ Incoming Energy [13.71, 17.604)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 8.01783e-05 +/- 2.28736e-06
+ Incoming Energy [17.604, 22.603)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 7.83754e-05 +/- 2.49959e-06
+ Incoming Energy [22.603, 29.023)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 8.58868e-05 +/- 1.71697e-06
+ Incoming Energy [29.023, 37.267)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 8.47854e-05 +/- 2.03583e-06
+ Incoming Energy [37.267, 47.851)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 8.90631e-05 +/- 2.20639e-06
+ Incoming Energy [47.851, 61.442)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 9.32878e-05 +/- 2.48896e-06
+ Incoming Energy [61.442, 78.893)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 9.86779e-05 +/- 2.16091e-06
+ Incoming Energy [78.893, 101.3)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000103488 +/- 3.78188e-06
+ Incoming Energy [101.3, 130.07)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000102044 +/- 2.21437e-06
+ Incoming Energy [130.07, 167.02)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000103463 +/- 3.53978e-06
+ Incoming Energy [167.02, 214.45)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00010669 +/- 2.46285e-06
+ Incoming Energy [214.45, 275.36)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000117051 +/- 2.73484e-06
+ Incoming Energy [275.36, 353.57)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000120683 +/- 3.30255e-06
+ Incoming Energy [353.57, 454)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00012203 +/- 3.32967e-06
+ Incoming Energy [454, 582.95)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000125933 +/- 3.03539e-06
+ Incoming Energy [582.95, 748.52)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000134432 +/- 2.19247e-06
+ Incoming Energy [748.52, 961.12)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000136936 +/- 2.65262e-06
+ Incoming Energy [961.12, 1234.1)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000141413 +/- 3.72852e-06
+ Incoming Energy [1234.1, 1584.6)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000147688 +/- 2.73867e-06
+ Incoming Energy [1584.6, 2034.7)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000156518 +/- 2.16168e-06
+ Incoming Energy [2034.7, 2248.7)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 6.17035e-05 +/- 2.36897e-06
+ Incoming Energy [2248.7, 2485.2)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 6.60293e-05 +/- 2.2745e-06
+ Incoming Energy [2485.2, 2612.6)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 3.27969e-05 +/- 7.0355e-07
+ Incoming Energy [2612.6, 2746.5)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 3.09568e-05 +/- 1.52219e-06
+ Incoming Energy [2746.5, 3035.4)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 6.83923e-05 +/- 3.09063e-06
+ Incoming Energy [3035.4, 3354.6)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 6.72823e-05 +/- 2.99224e-06
+ Incoming Energy [3354.6, 3707.4)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 6.74874e-05 +/- 1.61403e-06
+ Incoming Energy [3707.4, 4307.4)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00010493 +/- 2.32266e-06
+ Incoming Energy [4307.4, 5530.8)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00017703 +/- 3.82341e-06
+ Incoming Energy [5530.8, 7101.7)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000193119 +/- 4.20093e-06
+ Incoming Energy [7101.7, 9118.8)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000200111 +/- 5.59161e-06
+ Incoming Energy [9118.8, 10595)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000126306 +/- 2.74274e-06
+ Incoming Energy [10595, 11709)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 8.56587e-05 +/- 1.95036e-06
+ Incoming Energy [11709, 15034)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000226408 +/- 4.12876e-06
+ Incoming Energy [15034, 19304)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000239096 +/- 4.05259e-06
+ Incoming Energy [19304, 21875)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000124486 +/- 1.956e-06
+ Incoming Energy [21875, 23579)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 7.69508e-05 +/- 1.32795e-06
+ Incoming Energy [23579, 24176)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 2.55038e-05 +/- 1.06763e-06
+ Incoming Energy [24176, 24788)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 2.72688e-05 +/- 1.24316e-06
+ Incoming Energy [24788, 26058)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 5.50492e-05 +/- 1.63452e-06
+ Incoming Energy [26058, 27000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 3.57654e-05 +/- 1.21241e-06
+ Incoming Energy [27000, 28501)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 6.18567e-05 +/- 1.33292e-06
+ Incoming Energy [28501, 31828)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000119111 +/- 2.17535e-06
+ Incoming Energy [31828, 34307)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 8.36303e-05 +/- 1.90605e-06
+ Incoming Energy [34307, 40868)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000211045 +/- 4.55696e-06
+ Incoming Energy [40868, 46309)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000165537 +/- 3.0106e-06
+ Incoming Energy [46309, 52475)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000167127 +/- 3.39931e-06
+ Incoming Energy [52475, 56562)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000105405 +/- 1.28749e-06
+ Incoming Energy [56562, 67380)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000264781 +/- 3.66774e-06
+ Incoming Energy [67380, 72024)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000103495 +/- 1.47149e-06
+ Incoming Energy [72024, 79499)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000162296 +/- 2.02313e-06
+ Incoming Energy [79499, 82503)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 6.06968e-05 +/- 2.0748e-06
+ Incoming Energy [82503, 86517)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 8.46405e-05 +/- 2.20808e-06
+ Incoming Energy [86517, 98036)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000225998 +/- 3.94862e-06
+ Incoming Energy [98036, 111090)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000242945 +/- 5.78129e-06
+ Incoming Energy [111090, 116790)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000105957 +/- 3.2794e-06
+ Incoming Energy [116790, 122770)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000104184 +/- 3.08663e-06
+ Incoming Energy [122770, 129070)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000106322 +/- 2.9244e-06
+ Incoming Energy [129070, 135690)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000114952 +/- 3.27779e-06
+ Incoming Energy [135690, 142640)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000114475 +/- 2.7692e-06
+ Incoming Energy [142640, 149960)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000118895 +/- 2.53653e-06
+ Incoming Energy [149960, 157640)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000123273 +/- 2.42173e-06
+ Incoming Energy [157640, 165730)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000128255 +/- 3.47847e-06
+ Incoming Energy [165730, 174220)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000133527 +/- 2.62742e-06
+ Incoming Energy [174220, 183160)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000136637 +/- 5.32065e-06
+ Incoming Energy [183160, 192550)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000138079 +/- 2.56038e-06
+ Incoming Energy [192550, 202420)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000143047 +/- 2.5666e-06
+ Incoming Energy [202420, 212800)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000142267 +/- 2.42267e-06
+ Incoming Energy [212800, 223710)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000153016 +/- 2.61197e-06
+ Incoming Energy [223710, 235180)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00015599 +/- 3.51972e-06
+ Incoming Energy [235180, 247240)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000164662 +/- 2.92774e-06
+ Incoming Energy [247240, 273240)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000336344 +/- 5.13072e-06
+ Incoming Energy [273240, 287250)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00017745 +/- 3.59613e-06
+ Incoming Energy [287250, 294520)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 9.36673e-05 +/- 1.90877e-06
+ Incoming Energy [294520, 297210)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 3.36947e-05 +/- 1.69285e-06
+ Incoming Energy [297210, 298490)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 1.43285e-05 +/- 9.3716e-07
+ Incoming Energy [298490, 301970)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 4.82438e-05 +/- 5.45205e-07
+ Incoming Energy [301970, 333730)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000395066 +/- 5.51129e-06
+ Incoming Energy [333730, 368830)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000420726 +/- 6.58564e-06
+ Incoming Energy [368830, 387740)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000232197 +/- 4.67082e-06
+ Incoming Energy [387740, 407620)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000230382 +/- 3.03808e-06
+ Incoming Energy [407620, 450490)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000485096 +/- 5.499e-06
+ Incoming Energy [450490, 497870)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000539292 +/- 5.27417e-06
+ Incoming Energy [497870, 523400)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000283788 +/- 5.0983e-06
+ Incoming Energy [523400, 550230)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000300189 +/- 5.14817e-06
+ Incoming Energy [550230, 578440)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000300081 +/- 3.63459e-06
+ Incoming Energy [578440, 608100)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000313206 +/- 4.62649e-06
+ Incoming Energy [608100, 639280)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000331062 +/- 4.77663e-06
+ Incoming Energy [639280, 672060)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000339656 +/- 4.72463e-06
+ Incoming Energy [672060, 706510)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000353583 +/- 5.03228e-06
+ Incoming Energy [706510, 742740)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000367712 +/- 5.2498e-06
+ Incoming Energy [742740, 780820)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000381039 +/- 4.57379e-06
+ Incoming Energy [780820, 820850)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000400496 +/- 8.4681e-06
+ Incoming Energy [820850, 862940)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000412419 +/- 3.8829e-06
+ Incoming Energy [862940, 907180)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000425868 +/- 4.93857e-06
+ Incoming Energy [907180, 961670)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000510909 +/- 8.18832e-06
+ Incoming Energy [961670, 1002600)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000383397 +/- 5.24164e-06
+ Incoming Energy [1002600, 1108000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000967786 +/- 5.83155e-06
+ Incoming Energy [1108000, 1164800)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000514944 +/- 2.84424e-06
+ Incoming Energy [1164800, 1224600)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000535232 +/- 5.65137e-06
+ Incoming Energy [1224600, 1287400)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000565016 +/- 4.35407e-06
+ Incoming Energy [1287400, 1353400)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000586669 +/- 6.28991e-06
+ Incoming Energy [1353400, 1422700)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000588478 +/- 6.95209e-06
+ Incoming Energy [1422700, 1495700)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000632184 +/- 5.08489e-06
+ Incoming Energy [1495700, 1572400)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000658024 +/- 7.75411e-06
+ Incoming Energy [1572400, 1653000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000680094 +/- 7.7829e-06
+ Incoming Energy [1653000, 1737700)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000707762 +/- 6.29708e-06
+ Incoming Energy [1737700, 1826800)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000742107 +/- 1.08597e-05
+ Incoming Energy [1826800, 1920500)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000772587 +/- 6.77759e-06
+ Incoming Energy [1920500, 2019000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000808693 +/- 4.47901e-06
+ Incoming Energy [2019000, 2122500)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000831241 +/- 6.25244e-06
+ Incoming Energy [2122500, 2231300)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000854556 +/- 7.18005e-06
+ Incoming Energy [2231300, 2306900)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000584987 +/- 3.91427e-06
+ Incoming Energy [2306900, 2345700)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000303376 +/- 4.77863e-06
+ Incoming Energy [2345700, 2365300)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000150952 +/- 3.19213e-06
+ Incoming Energy [2365300, 2385100)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000152591 +/- 3.24428e-06
+ Incoming Energy [2385100, 2466000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000622355 +/- 4.93411e-06
+ Incoming Energy [2466000, 2592400)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.000992489 +/- 4.26597e-06
+ Incoming Energy [2592400, 2725300)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00100433 +/- 7.24998e-06
+ Incoming Energy [2725300, 2865000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00105023 +/- 6.59192e-06
+ Incoming Energy [2865000, 3011900)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00110129 +/- 6.6689e-06
+ Incoming Energy [3011900, 3166400)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00115247 +/- 7.17206e-06
+ Incoming Energy [3166400, 3328700)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00118687 +/- 8.4481e-06
+ Incoming Energy [3328700, 3678800)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00252774 +/- 1.27419e-05
+ Incoming Energy [3678800, 4065700)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.002742 +/- 1.90363e-05
+ Incoming Energy [4065700, 4493300)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00300639 +/- 8.93594e-06
+ Incoming Energy [4493300, 4723700)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00161071 +/- 7.46451e-06
+ Incoming Energy [4723700, 4965800)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00165466 +/- 7.46614e-06
+ Incoming Energy [4965800, 5220500)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00172006 +/- 1.10279e-05
+ Incoming Energy [5220500, 5488100)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00180391 +/- 1.02884e-05
+ Incoming Energy [5488100, 5769500)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00189262 +/- 1.17165e-05
+ Incoming Energy [5769500, 6065300)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.0019529 +/- 9.11512e-06
+ Incoming Energy [6065300, 6376300)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00205746 +/- 1.17113e-05
+ Incoming Energy [6376300, 6592400)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00141239 +/- 1.16632e-05
+ Incoming Energy [6592400, 6703200)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00070069 +/- 6.06467e-06
+ Incoming Energy [6703200, 7046900)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00221838 +/- 1.56389e-05
+ Incoming Energy [7046900, 7408200)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00231112 +/- 1.00436e-05
+ Incoming Energy [7408200, 7788000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00239695 +/- 7.01447e-06
+ Incoming Energy [7788000, 8187300)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00252453 +/- 1.67664e-05
+ Incoming Energy [8187300, 8607100)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00262868 +/- 1.18814e-05
+ Incoming Energy [8607100, 9048400)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00273281 +/- 1.3151e-05
+ Incoming Energy [9048400, 9512300)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00288198 +/- 1.18436e-05
+ Incoming Energy [9512300, 10000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.0029666 +/- 1.08323e-05
+ Incoming Energy [10000000, 10513000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00310103 +/- 1.29246e-05
+ Incoming Energy [10513000, 11052000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00324045 +/- 1.04832e-05
+ Incoming Energy [11052000, 11618000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00337606 +/- 1.82664e-05
+ Incoming Energy [11618000, 12214000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00356245 +/- 1.22368e-05
+ Incoming Energy [12214000, 12523000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00183482 +/- 1.41157e-05
+ Incoming Energy [12523000, 12840000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00185747 +/- 1.07661e-05
+ Incoming Energy [12840000, 13499000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.00380677 +/- 1.23731e-05
+ Incoming Energy [13499000, 13840000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.0019729 +/- 9.43954e-06
+ Incoming Energy [13840000, 14191000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0.408025 +/- 6.15716e-05
+ Incoming Energy [14191000, 14550000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [14550000, 14918000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [14918000, 15683000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [15683000, 16487000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [16487000, 16905000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [16905000, 17332000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [17332000, 19640000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [19640000, 20000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [20000000, 21000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [21000000, 22000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [22000000, 23000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [23000000, 24000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [24000000, 25000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [25000000, 26000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [26000000, 27000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [27000000, 28000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [28000000, 29000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [29000000, 30000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [30000000, 31000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [31000000, 32000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [32000000, 33000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [33000000, 34000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [34000000, 35000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [35000000, 36000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [36000000, 37000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [37000000, 38000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [38000000, 39000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [39000000, 40000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [40000000, 41000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [41000000, 42000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [42000000, 43000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [43000000, 44000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [44000000, 45000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [45000000, 46000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [46000000, 47000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [47000000, 48000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [48000000, 49000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [49000000, 50000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [50000000, 51000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [51000000, 52000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [52000000, 53000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [53000000, 54000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ Incoming Energy [54000000, 55000000)
+   Particle: neutron
+     Cell 12
+       Total Material
+         Flux                                 0 +/- 0
+ ===========================>     TALLY 16     <============================
+
+ Incoming Energy [1e-05, 0.1)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.001468 +/- 1.4293e-05
+ Incoming Energy [0.1, 0.41399)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.000565 +/- 5.0728e-06
+ Incoming Energy [0.41399, 0.53158)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              8.15e-05 +/- 2.04532e-06
+ Incoming Energy [0.53158, 0.68256)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              8.05e-05 +/- 2.083e-06
+ Incoming Energy [0.68256, 0.87643)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              7.89e-05 +/- 2.23333e-06
+ Incoming Energy [0.87643, 1.123)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              8.41e-05 +/- 2.13672e-06
+ Incoming Energy [1.123, 1.44)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              8.59e-05 +/- 2.42418e-06
+ Incoming Energy [1.44, 1.8554)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              8.79e-05 +/- 2.94184e-06
+ Incoming Energy [1.8554, 2.3824)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              9.41e-05 +/- 3.00537e-06
+ Incoming Energy [2.3824, 3.059)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              9.63e-05 +/- 2.65435e-06
+ Incoming Energy [3.059, 3.9279)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              9.47e-05 +/- 4.02782e-06
+ Incoming Energy [3.9279, 5.0435)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              9.51e-05 +/- 2.74651e-06
+ Incoming Energy [5.0435, 6.476)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001062 +/- 4.21848e-06
+ Incoming Energy [6.476, 8.3153)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.000108 +/- 1.90321e-06
+ Incoming Energy [8.3153, 10.677)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001099 +/- 4.57639e-06
+ Incoming Energy [10.677, 13.71)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001098 +/- 3.2311e-06
+ Incoming Energy [13.71, 17.604)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001212 +/- 3.22421e-06
+ Incoming Energy [17.604, 22.603)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001201 +/- 4.28291e-06
+ Incoming Energy [22.603, 29.023)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001307 +/- 2.8482e-06
+ Incoming Energy [29.023, 37.267)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001286 +/- 2.84097e-06
+ Incoming Energy [37.267, 47.851)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001371 +/- 3.33483e-06
+ Incoming Energy [47.851, 61.442)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001418 +/- 3.11912e-06
+ Incoming Energy [61.442, 78.893)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001499 +/- 2.93428e-06
+ Incoming Energy [78.893, 101.3)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001566 +/- 5.81225e-06
+ Incoming Energy [101.3, 130.07)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001531 +/- 2.81839e-06
+ Incoming Energy [130.07, 167.02)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001572 +/- 5.32458e-06
+ Incoming Energy [167.02, 214.45)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001619 +/- 4.00403e-06
+ Incoming Energy [214.45, 275.36)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001782 +/- 3.94349e-06
+ Incoming Energy [275.36, 353.57)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001839 +/- 4.89773e-06
+ Incoming Energy [353.57, 454)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001855 +/- 4.272e-06
+ Incoming Energy [454, 582.95)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001914 +/- 4.17719e-06
+ Incoming Energy [582.95, 748.52)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0002031 +/- 3.00167e-06
+ Incoming Energy [748.52, 961.12)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0002089 +/- 4.20172e-06
+ Incoming Energy [961.12, 1234.1)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.000214 +/- 5.10773e-06
+ Incoming Energy [1234.1, 1584.6)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0002255 +/- 4.13454e-06
+ Incoming Energy [1584.6, 2034.7)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.000237 +/- 3.31997e-06
+ Incoming Energy [2034.7, 2248.7)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              9.44e-05 +/- 3.66424e-06
+ Incoming Energy [2248.7, 2485.2)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              9.92e-05 +/- 3.52073e-06
+ Incoming Energy [2485.2, 2612.6)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              4.92e-05 +/- 9.86577e-07
+ Incoming Energy [2612.6, 2746.5)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              4.74e-05 +/- 2.31036e-06
+ Incoming Energy [2746.5, 3035.4)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001032 +/- 4.22637e-06
+ Incoming Energy [3035.4, 3354.6)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001032 +/- 4.68994e-06
+ Incoming Energy [3354.6, 3707.4)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001017 +/- 2.29516e-06
+ Incoming Energy [3707.4, 4307.4)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.000159 +/- 3.7238e-06
+ Incoming Energy [4307.4, 5530.8)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.000268 +/- 5.75036e-06
+ Incoming Energy [5530.8, 7101.7)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0002907 +/- 6.76929e-06
+ Incoming Energy [7101.7, 9118.8)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0003035 +/- 8.86222e-06
+ Incoming Energy [9118.8, 10595)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001895 +/- 4.41273e-06
+ Incoming Energy [10595, 11709)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001298 +/- 2.92803e-06
+ Incoming Energy [11709, 15034)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0003429 +/- 4.682e-06
+ Incoming Energy [15034, 19304)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0003607 +/- 6.03333e-06
+ Incoming Energy [19304, 21875)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001877 +/- 2.91757e-06
+ Incoming Energy [21875, 23579)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001179 +/- 1.71561e-06
+ Incoming Energy [23579, 24176)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              3.87e-05 +/- 1.62652e-06
+ Incoming Energy [24176, 24788)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              4.09e-05 +/- 1.80401e-06
+ Incoming Energy [24788, 26058)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              8.31e-05 +/- 2.38258e-06
+ Incoming Energy [26058, 27000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              5.43e-05 +/- 1.67365e-06
+ Incoming Energy [27000, 28501)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              9.3e-05 +/- 1.86786e-06
+ Incoming Energy [28501, 31828)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001797 +/- 3.25593e-06
+ Incoming Energy [31828, 34307)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001258 +/- 2.76405e-06
+ Incoming Energy [34307, 40868)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0003199 +/- 6.67741e-06
+ Incoming Energy [40868, 46309)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0002496 +/- 5.17086e-06
+ Incoming Energy [46309, 52475)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0002546 +/- 4.46517e-06
+ Incoming Energy [52475, 56562)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001612 +/- 2.15922e-06
+ Incoming Energy [56562, 67380)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0003993 +/- 5.82342e-06
+ Incoming Energy [67380, 72024)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001561 +/- 2.16769e-06
+ Incoming Energy [72024, 79499)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0002457 +/- 2.54755e-06
+ Incoming Energy [79499, 82503)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              9.2e-05 +/- 2.8829e-06
+ Incoming Energy [82503, 86517)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001272 +/- 3.02141e-06
+ Incoming Energy [86517, 98036)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0003433 +/- 5.71168e-06
+ Incoming Energy [98036, 111090)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.000368 +/- 8.67179e-06
+ Incoming Energy [111090, 116790)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001607 +/- 4.94649e-06
+ Incoming Energy [116790, 122770)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001573 +/- 4.54618e-06
+ Incoming Energy [122770, 129070)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001616 +/- 4.38229e-06
+ Incoming Energy [129070, 135690)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001737 +/- 4.89455e-06
+ Incoming Energy [135690, 142640)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001727 +/- 4.27928e-06
+ Incoming Energy [142640, 149960)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001795 +/- 3.65832e-06
+ Incoming Energy [149960, 157640)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001881 +/- 3.80774e-06
+ Incoming Energy [157640, 165730)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001955 +/- 5.60208e-06
+ Incoming Energy [165730, 174220)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0002031 +/- 4.47077e-06
+ Incoming Energy [174220, 183160)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0002072 +/- 7.86525e-06
+ Incoming Energy [183160, 192550)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0002108 +/- 3.71124e-06
+ Incoming Energy [192550, 202420)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0002162 +/- 3.7618e-06
+ Incoming Energy [202420, 212800)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.000219 +/- 3.28971e-06
+ Incoming Energy [212800, 223710)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0002329 +/- 4.55448e-06
+ Incoming Energy [223710, 235180)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0002364 +/- 4.78934e-06
+ Incoming Energy [235180, 247240)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0002517 +/- 4.48219e-06
+ Incoming Energy [247240, 273240)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0005176 +/- 7.22526e-06
+ Incoming Energy [273240, 287250)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0002735 +/- 5.6357e-06
+ Incoming Energy [287250, 294520)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0001432 +/- 3.33267e-06
+ Incoming Energy [294520, 297210)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              5.24e-05 +/- 2.53947e-06
+ Incoming Energy [297210, 298490)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              2.22e-05 +/- 1.48922e-06
+ Incoming Energy [298490, 301970)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              7.21e-05 +/- 8.08977e-07
+ Incoming Energy [301970, 333730)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0006095 +/- 8.57678e-06
+ Incoming Energy [333730, 368830)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0006512 +/- 1.01476e-05
+ Incoming Energy [368830, 387740)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0003573 +/- 6.71987e-06
+ Incoming Energy [387740, 407620)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0003549 +/- 4.85901e-06
+ Incoming Energy [407620, 450490)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0007492 +/- 7.45773e-06
+ Incoming Energy [450490, 497870)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0008367 +/- 8.88075e-06
+ Incoming Energy [497870, 523400)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0004427 +/- 7.73455e-06
+ Incoming Energy [523400, 550230)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0004612 +/- 5.35993e-06
+ Incoming Energy [550230, 578440)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0004683 +/- 5.53183e-06
+ Incoming Energy [578440, 608100)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0004887 +/- 7.88113e-06
+ Incoming Energy [608100, 639280)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0005153 +/- 6.52525e-06
+ Incoming Energy [639280, 672060)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0005309 +/- 6.2742e-06
+ Incoming Energy [672060, 706510)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.000553 +/- 7.7746e-06
+ Incoming Energy [706510, 742740)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0005798 +/- 8.37032e-06
+ Incoming Energy [742740, 780820)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0005984 +/- 5.85036e-06
+ Incoming Energy [780820, 820850)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0006287 +/- 1.15162e-05
+ Incoming Energy [820850, 862940)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0006501 +/- 6.80433e-06
+ Incoming Energy [862940, 907180)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0006724 +/- 6.64363e-06
+ Incoming Energy [907180, 961670)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0008081 +/- 1.1743e-05
+ Incoming Energy [961670, 1002600)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0006038 +/- 5.28057e-06
+ Incoming Energy [1002600, 1108000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0015404 +/- 9.81292e-06
+ Incoming Energy [1108000, 1164800)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0008227 +/- 5.7e-06
+ Incoming Energy [1164800, 1224600)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0008567 +/- 8.97534e-06
+ Incoming Energy [1224600, 1287400)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0009062 +/- 6.73102e-06
+ Incoming Energy [1287400, 1353400)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0009449 +/- 1.12284e-05
+ Incoming Energy [1353400, 1422700)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0009505 +/- 1.13444e-05
+ Incoming Energy [1422700, 1495700)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0010211 +/- 8.76413e-06
+ Incoming Energy [1495700, 1572400)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0010642 +/- 1.23673e-05
+ Incoming Energy [1572400, 1653000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0011042 +/- 1.15939e-05
+ Incoming Energy [1653000, 1737700)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0011515 +/- 9.54318e-06
+ Incoming Energy [1737700, 1826800)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0012128 +/- 1.75511e-05
+ Incoming Energy [1826800, 1920500)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0012612 +/- 1.13615e-05
+ Incoming Energy [1920500, 2019000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0013235 +/- 6.9029e-06
+ Incoming Energy [2019000, 2122500)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0013736 +/- 1.03464e-05
+ Incoming Energy [2122500, 2231300)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0014146 +/- 1.26589e-05
+ Incoming Energy [2231300, 2306900)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0009697 +/- 6.54905e-06
+ Incoming Energy [2306900, 2345700)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0005044 +/- 7.4045e-06
+ Incoming Energy [2345700, 2365300)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0002469 +/- 4.82459e-06
+ Incoming Energy [2365300, 2385100)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0002525 +/- 4.96488e-06
+ Incoming Energy [2385100, 2466000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0010359 +/- 7.97419e-06
+ Incoming Energy [2466000, 2592400)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0016588 +/- 7.88078e-06
+ Incoming Energy [2592400, 2725300)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0016839 +/- 1.22913e-05
+ Incoming Energy [2725300, 2865000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0017694 +/- 1.06544e-05
+ Incoming Energy [2865000, 3011900)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0018615 +/- 1.22041e-05
+ Incoming Energy [3011900, 3166400)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0019579 +/- 1.18963e-05
+ Incoming Energy [3166400, 3328700)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0020194 +/- 1.268e-05
+ Incoming Energy [3328700, 3678800)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0043292 +/- 2.21604e-05
+ Incoming Energy [3678800, 4065700)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0047419 +/- 3.34293e-05
+ Incoming Energy [4065700, 4493300)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0052349 +/- 1.75192e-05
+ Incoming Energy [4493300, 4723700)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0028287 +/- 1.28565e-05
+ Incoming Energy [4723700, 4965800)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0029146 +/- 1.26686e-05
+ Incoming Energy [4965800, 5220500)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0030564 +/- 2.00678e-05
+ Incoming Energy [5220500, 5488100)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0032142 +/- 1.51223e-05
+ Incoming Energy [5488100, 5769500)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0033838 +/- 1.89261e-05
+ Incoming Energy [5769500, 6065300)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0035127 +/- 1.7127e-05
+ Incoming Energy [6065300, 6376300)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0037275 +/- 2.20269e-05
+ Incoming Energy [6376300, 6592400)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0025648 +/- 2.05804e-05
+ Incoming Energy [6592400, 6703200)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.001274 +/- 8.3666e-06
+ Incoming Energy [6703200, 7046900)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0040665 +/- 2.73789e-05
+ Incoming Energy [7046900, 7408200)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0042565 +/- 1.81856e-05
+ Incoming Energy [7408200, 7788000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.004441 +/- 1.19629e-05
+ Incoming Energy [7788000, 8187300)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0046995 +/- 3.21484e-05
+ Incoming Energy [8187300, 8607100)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0049269 +/- 2.30244e-05
+ Incoming Energy [8607100, 9048400)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0051538 +/- 2.47529e-05
+ Incoming Energy [9048400, 9512300)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0054589 +/- 2.08984e-05
+ Incoming Energy [9512300, 10000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0056599 +/- 2.06287e-05
+ Incoming Energy [10000000, 10513000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.005954 +/- 2.41583e-05
+ Incoming Energy [10513000, 11052000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0062404 +/- 2.24901e-05
+ Incoming Energy [11052000, 11618000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.00655 +/- 3.14151e-05
+ Incoming Energy [11618000, 12214000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0069641 +/- 2.38414e-05
+ Incoming Energy [12214000, 12523000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0036063 +/- 2.78313e-05
+ Incoming Energy [12523000, 12840000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0036636 +/- 2.10239e-05
+ Incoming Energy [12840000, 13499000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0075483 +/- 2.43703e-05
+ Incoming Energy [13499000, 13840000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.0039279 +/- 1.87667e-05
+ Incoming Energy [13840000, 14191000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0.816065 +/- 0.000122724
+ Incoming Energy [14191000, 14550000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [14550000, 14918000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [14918000, 15683000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [15683000, 16487000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [16487000, 16905000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [16905000, 17332000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [17332000, 19640000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [19640000, 20000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [20000000, 21000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [21000000, 22000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [22000000, 23000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [23000000, 24000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [24000000, 25000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [25000000, 26000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [26000000, 27000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [27000000, 28000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [28000000, 29000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [29000000, 30000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [30000000, 31000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [31000000, 32000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [32000000, 33000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [33000000, 34000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [34000000, 35000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [35000000, 36000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [36000000, 37000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [37000000, 38000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [38000000, 39000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [39000000, 40000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [40000000, 41000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [41000000, 42000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [42000000, 43000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [43000000, 44000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [44000000, 45000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [45000000, 46000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [46000000, 47000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [47000000, 48000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [48000000, 49000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [49000000, 50000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [50000000, 51000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [51000000, 52000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [52000000, 53000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [53000000, 54000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0
+ Incoming Energy [54000000, 55000000)
+   Particle: neutron
+     Surface 13
+       Total Material
+         Current                              0 +/- 0

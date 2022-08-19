@@ -1,0 +1,14 @@
+anisn library for irtmba generic tool 175+45, NaI, CaCO3+19%
+0 6 0 12  1 1 0    3 0 0     
+-253 6   257 3   12  1  1  1  0  0  
+I:\XSUN2021\xs\fendl32\
+det1 /
+det1   300.      54.448  1   2.5179/
+1   1  h1    2.e-2  free/
+stop
+
+det1 det1b/
+det1   300.      54.448  1   2.5179/
+det1b  300.      12.066  1   0.3110/
+1   1  n14   1.e-5  free/
+2   2  h1    2.e-2  free/

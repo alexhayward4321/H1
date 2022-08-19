@@ -1,0 +1,40 @@
+    2    0    0    0    0
+SNEAK-7B benchmark                                                             
+PARTISN/ONEDANT, 33-group, 1d sph model, P5-S48                                
+igeom=3 ngroup=253 isn=48 niso=1 mt=1 nzone=1 im=2 it=51 jm=0 jt=0 km=1
+kt=1
+maxscm=10000000 maxlcm=37000000 
+t
+xmesh= 0. 0.1 52.0                                                         
+xints= 1 50;                                                                   
+zones= 1 1 ;                                                                   
+t
+lib=isotxs 
+maxord=5 ihm=257 iht=3 ihs=4 
+ t
+matls=isos assign=matls 
+t
+ievt=0 isct=5 ith=0 ibl=1 norm=1 
+epsi=1.e-7 oitm=100 
+rmflux=1 
+source= 209z 2r1 f0
+sourcx= 1.0 f0.0
+t
+pted=0 
+zned=1 rzflux=1 rzmflx=1
+/points=107 
+/byvolp=1 
+ajed=0 
+rsfe=211r1. 42z; 
+ 211z 42r1; 
+ 211z 16z 1 f0;  212z 16z 1 f0; 213z 16z 1 f0;  214z 16z 1 f0;  215z 16z 1 f0;
+ 216z 16z 1 f0;  217z 16z 1 f0; 218z 16z 1 f0;  219z 16z 1 f0;  220z 16z 1 f0;
+ 221z 16z 1 f0;  222z 16z 1 f0; 223z 16z 1 f0;  224z 16z 1 f0;  225z 16z 1 f0;
+ 226z 16z 1 f0;  227z 16z 1 f0; 228z 16z 1 f0;  229z 16z 1 f0;  230z 16z 1 f0;
+ 230z 16z 1 f0; 231z 16z 1 f0; 232z 16z 1 f0; 233z 16z 1 f0; 234z 16z 1 f0;
+ 235z 16z 1 f0;  236z 16z 1 ;
+rsfnam=neut gama g2p5 g2 g1p66 g1p5 gp134 gp133 gp1 gp8 gp7 gp6 gp512 gp45 
+gp4 gp3 gp2 gp15
+ gp1 gpp75 gpp7 gpp6 gpp45 gpp3 gpp2 gpp1 gppp1  gpppx  gpppxx
+t
+
